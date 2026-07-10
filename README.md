@@ -73,7 +73,7 @@ The project focuses on **analyzing trends, engagement, and risks** of self-diagn
 - **Interactive Dashboard:** Filters by platform, sentiment, keyword, and date  
 - **Visualizations:** Trend lines, engagement metrics, sentiment distribution  
 - **Report & Slides:** Summarize key insights, risks, and recommendations  
-- **Tools:** Tableau, PowerPoint  
+- **Tools:** Power BI, PowerPoint  
 
 **Deliverables:** Interactive dashboard, final report, and presentation slides
 
