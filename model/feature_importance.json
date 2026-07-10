@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "Suspected Self-Condition Based Solely on Video_Not sure",
+    "importance": 0.2045
+  },
+  {
+    "feature": "Suspected Self-Condition Based Solely on Video_Yes",
+    "importance": 0.0849
+  },
+  {
+    "feature": "Perceived Danger of Self-Diagnosis (1-5)",
+    "importance": 0.0639
+  },
+  {
+    "feature": "Suspected Self-Condition Based Solely on Video_No",
+    "importance": 0.059
+  },
+  {
+    "feature": "Next Step After Suspecting Condition_Did nothing",
+    "importance": 0.0492
+  },
+  {
+    "feature": "Search for Symptoms on Social Media Instead of Search Engines_Yes",
+    "importance": 0.0459
+  },
+  {
+    "feature": "platform_X_Twitter",
+    "importance": 0.0274
+  },
+  {
+    "feature": "Num Conditions Self-Diagnosed",
+    "importance": 0.0261
+  },
+  {
+    "feature": "General Feeling After Watching Self-Diagnosis Content_Anxiety and stress",
+    "importance": 0.0219
+  },
+  {
+    "feature": "Search for Symptoms on Social Media Instead of Search Engines_No",
+    "importance": 0.0215
+  },
+  {
+    "feature": "Frequency of Medical Content Exposure (1-5)",
+    "importance": 0.0186
+  },
+  {
+    "feature": "cond_Depression",
+    "importance": 0.0167
+  },
+  {
+    "feature": "Num Platforms Used",
+    "importance": 0.0155
+  },
+  {
+    "feature": "Age Group_25-34",
+    "importance": 0.0152
+  },
+  {
+    "feature": "platform_Reddit",
+    "importance": 0.0145
+  }
+]
