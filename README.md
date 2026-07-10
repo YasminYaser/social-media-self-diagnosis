@@ -1,7 +1,7 @@
 # Social Media Self-Diagnosis Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)  
-[![Tableau](https://img.shields.io/badge/Tableau-2023.1-orange?logo=tableau&logoColor=white)](https://www.tableau.com/)  
+![Power BI](https://img.shields.io/badge/Power%20BI-Latest-F2C811?logo=powerbi&logoColor=black)  
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 > **Project:** Self-Diagnosis on Social Media: Trends, Risks, and Behavioral Analysis  
