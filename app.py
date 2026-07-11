@@ -15,6 +15,7 @@ st.set_page_config(
     page_title="Digital Self-Diagnosis | Social Media & Mental Health",
     page_icon=":bar_chart:",
     layout="wide",
+    initial_sidebar_state="expanded",
 )
 
 # ---------------------------------------------------------------------------
